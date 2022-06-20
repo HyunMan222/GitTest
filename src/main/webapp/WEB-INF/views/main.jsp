@@ -15,8 +15,10 @@
  
  <h3>commit 한 내용을 취소하고 싶을 경우</h3>
  <p>1. 브런치 초기화</p>
- <p>2. reverse commit</p>
+ <p>2. reverse commit - 특정 버전에서 실행한 내용만 되돌리고 최종버전은 유지하는 새로운 커밋을 생성</p>
  
 </body>
-<script></script>
+<script>
+
+</script>
 </html>
