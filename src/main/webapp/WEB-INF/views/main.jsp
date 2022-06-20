@@ -21,9 +21,6 @@
  
 </body>
 <script>
-	var msg = "${msg}";
-	if(msg != ""){
-	alert(msg);
-	}
+
 </script>
 </html>
